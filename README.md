@@ -1,2 +1,2 @@
 # eo-ml-examples
-Machine Learning examples on Hopsworks
+Machine Learning example notebooks running on Hopsworks.
